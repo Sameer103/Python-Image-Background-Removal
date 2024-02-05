@@ -5,6 +5,11 @@ Welcome to the Python Image Background Removal project! This open-source initiat
 
 ## GitHub Repository: [Python-Image-Background-Removal](https://github.com/Sameer103/Python-Image-Background-Removal)
 
+
+
+Replace `https://www.youtube.com/watch?v=llVAxS060Q8` with the URL of your YouTube video thumbnail and `https://www.youtube.com/watch?v=llVAxS060Q8` with the URL you copied from the iframe code.
+
+
 ## Features:
 - **Easy-to-Use:** Our Python script utilizes rembg and OpenCV, making background removal a seamless process.
 - **Versatile:** Suitable for various image types and scenarios, whether it's for creative projects, product photography, or any other application.
