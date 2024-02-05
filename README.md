@@ -7,7 +7,7 @@ Welcome to the Python Image Background Removal project! This open-source initiat
 
 
 
-Replace `https://www.youtube.com/watch?v=llVAxS060Q8` with the URL of your YouTube video thumbnail and `https://www.youtube.com/watch?v=llVAxS060Q8` with the URL you copied from the iframe code.
+[![Alt text](https://i3.ytimg.com/vi/llVAxS060Q8/maxresdefault.jpg)](https://www.youtube.com/watch?v=llVAxS060Q8)
 
 
 ## Features:
